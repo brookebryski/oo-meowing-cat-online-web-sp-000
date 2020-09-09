@@ -1,6 +1,6 @@
 class Cat
-  attr_writer
-  arrt_reader 
+  attr_writer :name
+  arrt_reader :name
 end
 
 end
