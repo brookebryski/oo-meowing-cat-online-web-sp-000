@@ -1,6 +1,6 @@
 class Cat
   attr_writer:
-  arrt_reader: 
+  arrt_reader:
 end
 
 end
